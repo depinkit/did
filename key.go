@@ -22,7 +22,7 @@ import (
 	mb "github.com/multiformats/go-multibase"
 	varint "github.com/multiformats/go-varint"
 
-	"gitlab.com/nunet/device-management-service/lib/crypto"
+	"github.com/depinkit/crypto"
 )
 
 type PublicKeyAnchor struct {

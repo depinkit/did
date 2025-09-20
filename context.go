@@ -14,7 +14,7 @@ import (
 	"sync"
 	"time"
 
-	"gitlab.com/nunet/device-management-service/lib/crypto"
+	"github.com/depinkit/crypto"
 )
 
 const anchorEntryTTL = time.Hour
